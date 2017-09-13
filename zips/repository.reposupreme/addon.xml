@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.reposupreme" name="Supreme Repo" version="0.0.1" provider-name="UNSRSTRK">
+	<extension point="xbmc.addon.repository" name="Supreme Repo">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/unsrstrk/repository.reposupreme/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/unsrstrk/repository.reposupreme/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/unsrstrk/repository.reposupreme/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Supreme Build Repo</summary>
+		<description lang="en">Supreme Build Repo</description>
+		<genre>livetv,tvshows,german,turkish</genre>
+	</extension>
+</addon>
